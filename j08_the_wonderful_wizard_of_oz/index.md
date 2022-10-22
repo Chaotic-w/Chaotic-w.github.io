@@ -1,8 +1,6 @@
 # 绿野仙踪
 
 
-![img](images/000016.jpg)
-
 第一章：旋风
 
 多萝西住在堪萨斯州的大草原上，与作为农民的亨利叔叔和作为农民妻子的艾姨一起生活。他们的房子很小，因为建造房子的木材需要用马车运到很多地方。有四面墙，一个地板和一个屋顶，这构成了一个房间；这个房间里有一个看起来很生锈的炉子，一个放餐具的柜子，一张桌子，三或四把椅子，还有床。亨利叔叔和艾姆婶婶在一个角落里有一张大床，多萝西在另一个角落里有一张小床。这里根本没有阁楼，也没有地窖--只有一个在地上挖的小洞，叫旋风地窖，万一有大旋风刮起，足以压垮沿途的任何建筑物，一家人就可以去那里。地板中间有一个活板门，从那里有一个梯子通向这个小而黑暗的洞。
@@ -51,7 +49,7 @@
 
 她抓住多多的耳朵。
 
-![img](images/000007.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000007.jpg)
 
 尽管房子在摇晃，风在呼啸，多萝西很快就闭上了眼睛，很快睡着了。
 
@@ -61,7 +59,7 @@
 
 理事会与 "蒙奇金"。
 
-![img](images/000025.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000025.jpg)
 
 她被一股冲击力惊醒，<如此突然和严重，如果多多没有躺在柔软的床上，她可能已经受伤了。果不其然，这个罐子让她喘不过气来，不知道发生了什么事；托托把他冰冷的小鼻子凑到她的脸上，沮丧地抱怨着。多萝西坐起来，注意到房子没有动；也不黑，因为明亮的阳光从窗口射进来，淹没了这个小房间。她从床上跳起来，带着托托跟在她后面，跑去开门。
 
@@ -121,7 +119,7 @@
 
 "我是北方的女巫。"
 
-![img](images/000017.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000017.jpg)
 
 "但是，"多萝西说，经过片刻的思考，"艾姨告诉我，女巫们都已经死了--很多年以前。"
 
@@ -205,9 +203,9 @@
 
 第三章
 
-桃乐丝如何拯救稻草人。 ![img](images/000023.jpg)
+桃乐丝如何拯救稻草人。 ![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000023.jpg)
 
-![img](images/000022.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000022.jpg)
 
 当多萝西被单独留下时，她开始感到不高兴。于是她走到橱柜前，自己切了一些面包，涂上黄油。她给了多多一些，然后从架子上拿了一个桶，把它带到小河边，装满了清澈的水。托托跑到树上，开始对着坐在那里的鸟儿吠叫。多萝西去找他，看到树枝上挂着如此美味的水果，她收集了一些，发现这正是她想要的，可以帮助她的早餐。
 
@@ -271,7 +269,7 @@
 
 "你一定是个伟大的女巫。"
 
-![img](images/000011.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000011.jpg)
 
 这让多萝西有点担心，但她知道只有伟大的奥兹国才能帮助她再次到达堪萨斯，所以她勇敢地决定不回头。
 
@@ -295,7 +293,7 @@
 
 多萝西若有所思地凝视着稻草人。
 
-![img](images/000006.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000006.jpg)
 
 "你不能下来吗？"多萝西问。
 
@@ -347,7 +345,7 @@
 
 穿越森林之路.
 
-![img](images/000037.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000037.jpg)
 
 几个小时后，道路开始变得崎岖不平，行走越来越困难，稻草人经常被黄砖绊倒，这里的黄砖非常不平整。有时，黄砖确实断裂或完全缺失，留下一些洞，托托跳过去，多萝西走过去。至于稻草人，他没有头脑，径直往前走，所以踩到了洞里，全身上下都摔在了硬砖上。然而，这并没有伤害到他，多萝西会把他扶起来，让他重新站起来，而他也和她一起为自己的不幸而开心地笑着。
 
@@ -389,7 +387,7 @@
 
 "稻草人说："我是昨天才做的。
 
-![img](images/000032.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000032.jpg)
 
 ""我想我会把另一只眼睛做得大一点，"农夫说；当第二只眼睛做好后，我的视力比以前好了很多。然后他给我做了鼻子和嘴巴；但我没有说话，因为当时我还不知道嘴巴是干什么用的。我很开心地看着他们制作我的身体和手脚；当他们最后把我的头固定在上面时，我感到非常自豪，因为我认为我和其他人一样是个好男人。
 
@@ -437,7 +435,7 @@
 
 铁皮人的救援》<<
 
-![img](images/000021.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000021.jpg)
 
 当多萝西醒来时，太阳正透过树林照耀着大地，多多早已出去追赶鸟儿和松鼠了。她坐起来，环顾四周。稻草人仍然耐心地站在他的角落里，等待着她。
 
@@ -511,7 +509,7 @@
 
 "这是一个很大的安慰，"铁皮人说。
 
-![img](images/000044.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000044.jpg)
 
 多萝西一边走一边认真思考，以至于当稻草人绊倒在一个洞里并滚到路边时，她没有注意到。事实上，他不得不叫她把他扶起来。
 
@@ -559,7 +557,7 @@
 
 胆小的狮子
 
-![img](images/000045.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000045.jpg)
 
 在这段时间里，多萝西和她的同伴们一直在茂密的树林里行走。路上还铺着黄砖，但这些黄砖多被树上的干枝和枯叶覆盖，走起来一点也不顺畅。
 
@@ -605,7 +603,7 @@
 
 "你应该为自己感到羞耻！"
 
-![img](images/000001.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000001.jpg)
 
 "也不是。他是一只肉狗，"女孩说。
 
@@ -669,7 +667,7 @@
 
 前往大奥兹国的旅程。
 
-![img](images/000030.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000030.jpg)
 
 那天晚上，他们不得不在森林里的一棵大树下休息，因为附近没有房子。这棵树为他们提供了一个很好的、厚实的覆盖物，以保护他们不受露水的侵袭，铁皮人用他的斧头砍了一大堆木头，多萝西生了一堆漂亮的火，使她感到温暖，也使她不再感到孤独。她和托托吃完了最后的面包，现在她不知道他们的早餐该怎么吃。
 
@@ -749,7 +747,7 @@
 
 "这棵树轰然倒在海湾里。"
 
-![img](images/000050.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000050.jpg)
 
 "啊，"铁皮人悲伤地说道，"我希望我有一颗可以跳动的心。"
 
@@ -769,7 +767,7 @@
 
 致命的罂粟花田。
 
-![img](images/000034.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000034.jpg)
 
 第二天早上，我们这群小旅行者神清气爽，满怀希望地起床，多萝西像公主一样吃着河边树上的桃子和李子。
 
@@ -869,7 +867,7 @@
 
 鹳鸟把他带到了空中。
 
-![img](images/000048.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000048.jpg)
 
 但铁皮人不会让她这样做。
 
@@ -903,7 +901,7 @@
 
 田鼠女王》。
 
-![img](images/000046.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000046.jpg)
 
 我们现在离黄砖路不远了，"稻草人说，当他站在女孩身边时，"因为我们几乎已经走到了河水带走我们的距离。"
 
@@ -997,13 +995,13 @@
 
 "请允许我向你们介绍女王陛下。"
 
-![img](images/000033.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000033.jpg)
 
 第十章。
 
 大门的守护者。
 
-![img](images/000049.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000049.jpg)
 
 过了一段时间，胆小的狮子才醒过来，因为他在罂粟花中躺了很久，呼吸着它们致命的香味；但当他真的睁开眼睛，滚下卡车时，他非常高兴地发现自己还活着。
 
@@ -1105,7 +1103,7 @@
 
 狮子吃了一些粥。
 
-![img](images/000047.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000047.jpg)
 
 在他们面前站着一个小人，和蒙奇奇夫妇差不多大。他从头到脚都穿着绿色的衣服，甚至他的皮肤也是绿色的颜色。在他身边有一个绿色的大盒子。
 
@@ -1139,7 +1137,7 @@
 
 奇妙的绿宝石城奥兹国。翡翠城奥兹国。
 
-![img](images/000020.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000020.jpg)
 
 即使眼睛受到绿色光谱的保护，桃乐丝和她的朋友们一开始也被这个奇妙的城市的光辉所迷惑。街道两旁都是美丽的房屋，都是用绿色大理石建造的，到处镶嵌着闪闪发光的翡翠。他们走在同样的绿色大理石铺成的路面上，块状物连接在一起的地方是一排排绿宝石，紧密地镶嵌在一起，在阳光的照耀下闪闪发光。窗玻璃是绿色的；甚至城市上方的天空也有绿色的色调，太阳的光线也是绿色的。
 
@@ -1213,7 +1211,7 @@
 
 那双眼睛若有所思地看着她。
 
-![img](images/000026.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000026.jpg)
 
 那双眼睛若有所思地看着她，足有一分钟。然后，那个声音说。
 
@@ -1379,7 +1377,7 @@
 
 然后用5个carctv换取邪恶女巫。
 
-![img](images/000043.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000043.jpg)
 
 带着绿色口哨的老者带领他们穿过翡翠城的街道，直到他们到达大门守护者居住的房间。这位官员打开了他们的眼镜锁[26](#calibre_link-58)把它们放回他的大盒子里，然后他很有礼貌地为我们的朋友打开大门。
 
@@ -1399,7 +1397,7 @@
 
 那个留着绿色胡须的士兵带领他们穿过街道。
 
-![img](images/000014.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000014.jpg)
 
 他们向他表示感谢并向他告别，然后转向西方，走过柔软的草地，这里和那里点缀着雏菊和毛茛。多萝西仍然穿着她在皇宫里穿的那件漂亮的丝绸衣服，但现在，她惊讶地发现，它不再是绿色的，而是纯白色的。托托脖子上的丝带也失去了绿色，和多萝西的裙子一样白。
 
@@ -1515,7 +1513,7 @@ Winkies不是一个勇敢的人，但他们必须听从命令；所以他们一�
 
 猴子们在他的身上缠绕了许多线圈。
 
-![img](images/000008.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000008.jpg)
 
 邪恶女巫看到多萝西额头上的印记时，既惊讶又担心，因为她清楚地知道，无论是翼猴还是她自己，都不敢以任何方式伤害这个女孩。她低头看了看多萝西的脚，看到那双银鞋，开始害怕得发抖，因为她知道那是多么强大的符咒。起初，女巫很想逃离多萝西；但她偶然看了看孩子的眼睛，发现他们背后的灵魂是如此简单，而且这个小女孩不知道银鞋给她带来的奇妙力量。于是，邪恶女巫自嘲地笑了笑，心想："我还是可以让她成为我的奴隶，因为她不知道如何使用她的力量。"然后她严厉地对多萝西说："多萝西。
 
@@ -1583,7 +1581,7 @@ Winkies不是一个勇敢的人，但他们必须听从命令；所以他们一�
 
 戒毒所
 
-![img](images/000004.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000004.jpg)
 
 胆小的狮子听说邪恶女巫被一桶水融化了，非常高兴，多萝西一下子打开了他的监狱大门，让他获得了自由。他们一起进了城堡，多萝西的第一个行动是把所有的温克人叫到一起，告诉他们他们不再是奴隶了。
 
@@ -1615,7 +1613,7 @@ Winkies把他温柔地抱在怀里，又把他抱回了黄色的城堡，多萝�
 
 铁匠们工作了三天四夜。
 
-![img](images/000019.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000019.jpg)
 
 "如果我们再有稻草人和我们在一起，"铁皮人说，当多萝西告诉他发生的一切后，"我应该很高兴。"
 
@@ -1661,7 +1659,7 @@ Winkies把他温柔地抱在怀里，又把他抱回了黄色的城堡，多萝�
 
 有翼的莫尔维基人
 
-![img](images/000031.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000031.jpg)
 
 你会记得在邪恶女巫的城堡和翡翠城之间没有道路，甚至没有一条小路。当四个旅行者去寻找女巫时，她看到他们来了，于是派翼猴把他们带到她那里。在大片的毛茛和黄菊花中找到他们回来的路，比他们被带着走要难得多。他们当然知道，他们必须向东直走，朝着太阳升起的方向走；他们开始走在正确的路上。但到了中午，当太阳在他们头上时，他们不知道哪个是东，哪个是西，这就是他们在大田里迷路的原因。然而，他们继续行走，到了晚上，月亮出来了，照得很亮。于是他们躺在香甜的黄花丛中，睡得很香，直到天亮--除了稻草人和铁皮人。
 
@@ -1734,7 +1732,7 @@ Winkies把他温柔地抱在怀里，又把他抱回了黄色的城堡，多萝�
 猴子们把多萝西抱在怀里，带着她飞走了。
 带着她飞走了。
 
-![img](images/000018.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000018.jpg)
 
 "曾经，"领袖开始说，"我们是一个自由的民族，快乐地生活在大森林里，从一棵树飞到另一棵树，吃坚果和水果，做我们想做的事，不叫任何人做主人。也许我们中的一些人有时过于恶作剧，飞下来拉那些没有翅膀的动物的尾巴，追赶小鸟，向在森林中行走的人扔坚果。但我们粗心大意，快乐而充满乐趣，享受着一天中的每一分钟。这是很多年前的事了，早在奥兹从云中出来统治这片土地之前。
 
@@ -1766,7 +1764,7 @@ Winkies把他温柔地抱在怀里，又把他抱回了黄色的城堡，多萝�
 
 发现盎司，可怕的人。
 
-![img](images/000013.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000013.jpg)
 
 四个旅行者走到翡翠城的大门前，敲响了钟。敲了几次后，门被他们之前遇到的那个守门人打开了。
 
@@ -1888,7 +1886,7 @@ Winkies把他温柔地抱在怀里，又把他抱回了黄色的城堡，多萝�
 
 "正是如此!我是个蠢货。"
 
-![img](images/000009.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000009.jpg)
 
 "但是，我不明白，"多萝西迷惑不解地说。"你怎么会作为一个伟大的首脑出现在我面前？"
 
@@ -1980,7 +1978,7 @@ Winkies把他温柔地抱在怀里，又把他抱回了黄色的城堡，多萝�
 
 伟大的哈姆雷特的神奇艺术。
 
-![img](images/000040.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000040.jpg)
 
 第二天早上，看护人对他的朋友们说。
 
@@ -2036,7 +2034,7 @@ Winkies把他温柔地抱在怀里，又把他抱回了黄色的城堡，多萝�
 
 "稻草人说："我确实感到很明智。
 
-![img](images/000000.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000000.jpg)
 
 "是不是很美？"他问。
 
@@ -2082,7 +2080,7 @@ Winkies把他温柔地抱在怀里，又把他抱回了黄色的城堡，多萝�
 
 Ballo是如何发起的。
 
-![img](images/000024.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000024.jpg)
 
 三天来，桃乐丝没有听到任何来自奥兹国的消息。对这个小女孩来说，这些日子很难过，尽管她的朋友们都很开心，很满足。
 
@@ -2160,7 +2158,7 @@ Ballo是如何发起的。
 
 向南走去。
 
-![img](images/000027.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000027.jpg)
 
 多萝西为她再次回到堪萨斯州的希望破灭而痛哭；但当她想到这一切时，她很高兴自己没有乘坐气球升空。她也为失去奥兹国而感到遗憾，她的同伴们也是如此。
 
@@ -2208,7 +2206,7 @@ Ballo是如何发起的。
 
 稻草人坐在大宝座上。
 
-![img](images/000029.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000029.jpg)
 
 多萝西几乎准备因失望而哭泣。
 
@@ -2274,7 +2272,7 @@ Ballo是如何发起的。
 
 被战斗之树攻击。[42](#calibre_link-86)
 
-![img](images/000036.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000036.jpg)
 
 第二天早上，多萝西亲吻了那个漂亮的绿色女孩，他们都和那个留着绿色胡须的士兵勾肩搭背，那个士兵和他们一直走到大门口。当城门守护者再次看到他们时，他非常奇怪，他们竟然能离开美丽的城市，惹上新的麻烦。但他马上解开了他们的眼镜，把它们放回绿盒子里，并给了他们许多美好的祝愿，让他们带着。
 
@@ -2336,13 +2334,13 @@ Ballo是如何发起的。
 
 树枝弯曲下来，缠绕着他。
 
-![img](images/000028.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000028.jpg)
 
 第二十章。
 
 娇滴滴的中国国家。
 
-![img](images/000035.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000035.jpg)
 
 当樵夫用在森林里找到的木头做梯子时，多萝西躺下睡觉了，因为她走了很长时间的路，很累。狮子也爬起来睡觉，托托躺在他身边。
 
@@ -2380,7 +2378,7 @@ Ballo是如何发起的。
 
 这些人都是瓷器做的。
 
-![img](images/000042.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000042.jpg)
 
 他们发现梯子很重，拉不上去，于是稻草人从墙上掉下来，其他人就跳到他身上，这样坚硬的地板就不会伤到他们的脚。当然，他们很小心地避免照到他的头和脚上的针。当所有的人都安全下来后，他们把稻草人抱了起来，他的身体被压得很扁，并把他的稻草重新拍成形状。
 
@@ -2463,7 +2461,7 @@ Ballo是如何发起的。
 
 狮子成为百兽之王。
 
-![img](images/000038.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000038.jpg)
 
 从瓷壁上一瘸一拐地走下来后，旅行者发现自己身处一个令人不快的地方，到处都是沼泽和泥沼，上面长满了高大的草。要想走得远而不掉进泥坑里是很困难的，因为草太厚了，遮住了他们的视线。然而，通过小心翼翼地挑选道路，他们安全地走了很久，直到他们到达坚实的地面。但在这里，他的国家似乎比以往任何时候都更荒凉，在经历了漫长而令人厌烦的灌木丛行走之后，他们进入了另一片森林，那里的树木比他们所见过的任何树木都要大，都要古老。
 
@@ -2521,7 +2519,7 @@ Ballo是如何发起的。
 
 奎德林之国
 
-![img](images/000002.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000002.jpg)
 
 四个旅行者安全地通过了森林的其余部分，当他们从黑暗中走出来时，看到面前是一座陡峭的山，从上到下都覆盖着巨大的岩石。
 
@@ -2573,7 +2571,7 @@ Ballo是如何发起的。
 
 头部向前射出，击中了稻草人。
 
-![img](images/000003.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000003.jpg)
 
 "这是你最后一次召唤我们了，"领队对多萝西说；"所以再见，祝你好运。"
 
@@ -2601,7 +2599,7 @@ Ballo是如何发起的。
 
 好女巫授予多萝西的
 
-![img](images/000012.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000012.jpg)
 
 然而，在他们去见格林达之前，他们被带到了城堡的一个房间，在那里，奥萝西洗了脸，梳理了空气，狮子抖了抖身上的灰尘，稻草人把自己拍成了EST形状，木头人擦了擦他的锡，给他的关节上了油。
 
@@ -2653,7 +2651,7 @@ Ballo是如何发起的。
 
 "你必须把金帽交给我。"
 
-![img](images/000039.jpg)
+![img](https://Chaotic-w.github.io/img/j08_the_wonderful_wizard_of_oz/images/000039.jpg)
 
 然后女巫看着毛茸茸的大狮子，问道。
 
